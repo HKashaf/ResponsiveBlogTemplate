@@ -33,13 +33,13 @@ This is a multipage responsive blog template built using pure HTML, CSS, and Jav
 
 ## Demo
 
-You can see a live demo of the website [here](https://Hkashaf/ResponsiveBlogTemplate.github.io/).
+You can see a live demo of the website [here](https://Hkashaf.github.io/ResponsiveBlogTemplate/).
 
 ## Usage
 
 To use this blog template, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/byomkesh03/Responsive-Blog-Template.git`
+1. Clone the repository: `git clone https://github.com/Hkashaf/Responsive-Blog-Template.git`
 2. Navigate to the project directory: `cd blog-template`
 3. Open the `index.html` file in your preferred web browser.
 
@@ -74,6 +74,6 @@ If you have any questions, suggestions, or feedback, feel free to contact me at 
 
 ---
 
-* Click on the link to view the project:- https://Hkashaf/ResponsiveBlogTemplate.github.io/
+* Click on the link to view the project:- https://Hkashaf.github.io/ResponsiveBlogTemplate/
 
   
