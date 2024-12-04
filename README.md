@@ -13,7 +13,7 @@ This is a multipage responsive blog template built using pure HTML, CSS, and Jav
 - [Contributing](#contributing)
 - [Acknowledgments](#Acknowledgments)
 - [Contact](#Contact)
-- [License](#license)
+
 
 ## Introduction
 
@@ -71,10 +71,6 @@ Your contributions are highly appreciated! Feel free to improve existing feature
 
 If you have any questions, suggestions, or feedback, feel free to contact me at kashafhaneen1@gmail.com.
 
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
