@@ -7,10 +7,7 @@ This is a multipage responsive blog template built using pure HTML, CSS, and Jav
 - [Introduction](#Introduction)
 - [Features](#features)
 - [Demo](#Demo)
-- [Usage](#usage)
-- [Customization](#customization)
 - [Installation](#installation)
-- [Contributing](#contributing)
 - [Acknowledgments](#Acknowledgments)
 - [Contact](#Contact)
 
@@ -35,41 +32,16 @@ This is a multipage responsive blog template built using pure HTML, CSS, and Jav
 
 You can see a live demo of the website [here](https://Hkashaf.github.io/ResponsiveBlogTemplate/).
 
-## Usage
-
-To use this blog template, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/Hkashaf/Responsive-Blog-Template.git`
-2. Navigate to the project directory: `cd blog-template`
-3. Open the `index.html` file in your preferred web browser.
-
-## Customization
-
-Feel free to modify and customize the template according to your needs. Add your own blog posts, and images, or make any other desired changes to fit your requirements.
-
 ## Installation
 
 There are no specific installation steps required for this template. Simply clone the repository and open the `index.html` file in a web browser to run the template locally.
 
-## Contributing
-
-If you want to contribute to this project, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/my-feature`
-3. Make your changes and commit them: `git commit -m 'Add some feature'`
-4. Push the changes to your forked repository: `git push origin feature/my-feature`
-5. Open a pull request in the original repository.
 
 Your contributions are highly appreciated! Feel free to improve existing features, add new features, fix bugs, or suggest enhancements.
 
-## Acknowledgments
-
-- Inspiration and guidance have been taken from the web development community For making this Multipage Responsive Blog Template Website.
-
 ## Contact
 
-If you have any questions, suggestions, or feedback, feel free to contact me at kashafhaneen1@gmail.com.
+If you have any questions, suggestions, or feedback, contact me at kashafhaneen1@gmail.com.
 
 
 ---
